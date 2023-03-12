@@ -14,6 +14,6 @@ Pad 26 to either of the 26 points on the pcb
 Pad 27 to either of the 27 points on the pcb
 
 Teensy 4.1:
-Solder 2 extrq pin and headers on the teensy 4.1 on pad 26 and 27.
+Solder 2 extra pin and headers on the teensy 4.1 on pad 26 and 27.
 
 More info: https://github.com/eh2k/squares-and-circles

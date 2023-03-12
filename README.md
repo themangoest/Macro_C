@@ -5,7 +5,7 @@ Use it with a Teensy 3.2 as a normal Ornaments and Crime or Hemi/Bemisphere modu
 
 Squares and Circles 
 Use a teensy 4 or 4.1
-
+Resistor R_SC only to be mounted when using Squares and Circles.
 You need to cut the jumpers J1 and J2
 
 Teensy 4:

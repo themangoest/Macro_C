@@ -1,6 +1,8 @@
 # Macro_C
 4U version of Ornament and Crimes
 
+Use it with a Teensy 3.2 as a normal Ornaments and Crime or Hemi/Bemisphere module
+
 Squares and Circles 
 Use a teensy 4 or 4.1
 

@@ -20,3 +20,9 @@ Teensy 4.1:
 Solder 2 extra pin and headers on the teensy 4.1 on pad 26 and 27.
 
 For more information and uploading of the firmware for Squares & Circles goes via https://github.com/eh2k/squares-and-circles
+
+In case you want to use Phazerville and you have squares and circles there are a few steps to do:
+- Unplug pin headers 26 and 27 on the back of the pcb left from the teensy.
+- After that solder the 2 bridges together near the usb port called sj1 and sj2.
+- Remove the resistor R_SC on the bottom of the pcb.
+- Flash it with the new firmware.
